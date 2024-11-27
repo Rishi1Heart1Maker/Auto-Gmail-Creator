@@ -24,7 +24,7 @@ import time
 import requests
 from unidecode import unidecode
 import uuid
-from fp.fp import FreeProxy  # Import FreeProxy
+from fp import FreeProxy  # Import FreeProxy
 
 # User Agents list for random selection
 user_agents = [
